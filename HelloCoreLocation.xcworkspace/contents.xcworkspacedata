@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:CompassApp/CompassApp.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:GeoNotifier/GeoNotifier.xcodeproj">
    </FileRef>
    <FileRef
