@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:PushLocation/PushLocation.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:WalkRecorder/WalkRecorder.xcodeproj">
    </FileRef>
    <FileRef
